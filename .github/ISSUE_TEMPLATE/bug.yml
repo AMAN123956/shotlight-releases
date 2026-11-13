@@ -1,0 +1,43 @@
+name: Bug report
+description: Something in Shotlight doesn't work as it should
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting. **If you attach a screenshot, blur passwords, keys, codes and anything personal first.**
+  - type: input
+    id: shotlight-version
+    attributes:
+      label: Shotlight version
+      description: In Finder, select Shotlight in Applications and press ⌘I (Get Info)
+      placeholder: "0.1.0"
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS version
+      description:  › About This Mac
+      placeholder: "macOS 26.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: apple-intelligence
+    attributes:
+      label: Is Apple Intelligence turned on?
+      options: ["Yes", "No", "Not sure"]
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: And what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to make it happen again
+      placeholder: |
+        1. Take a screenshot of …
+        2. …
