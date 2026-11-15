@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="72" viewBox="0 0 360 72" role="img" aria-labelledby="t d">
+<title id="t">Download Shotlight for Mac</title><desc id="d">Download button</desc>
+<defs>
+  <path id="sq" d="M90.00 50.00 L89.99 60.96 L89.95 64.45 L89.89 66.99 L89.80 69.05 L89.69 70.80 L89.55 72.35 L89.39 73.74 L89.21 75.01 L88.99 76.17 L88.75 77.24 L88.49 78.24 L88.20 79.17 L87.88 80.04 L87.53 80.85 L87.15 81.62 L86.75 82.34 L86.31 83.02 L85.85 83.66 L85.35 84.26 L84.82 84.82 L84.26 85.35 L83.66 85.85 L83.02 86.31 L82.34 86.75 L81.62 87.15 L80.85 87.53 L80.04 87.88 L79.17 88.20 L78.24 88.49 L77.24 88.75 L76.17 88.99 L75.01 89.21 L73.74 89.39 L72.35 89.55 L70.80 89.69 L69.05 89.80 L66.99 89.89 L64.45 89.95 L60.96 89.99 L50.00 90.00 L39.04 89.99 L35.55 89.95 L33.01 89.89 L30.95 89.80 L29.20 89.69 L27.65 89.55 L26.26 89.39 L24.99 89.21 L23.83 88.99 L22.76 88.75 L21.76 88.49 L20.83 88.20 L19.96 87.88 L19.15 87.53 L18.38 87.15 L17.66 86.75 L16.98 86.31 L16.34 85.85 L15.74 85.35 L15.18 84.82 L14.65 84.26 L14.15 83.66 L13.69 83.02 L13.25 82.34 L12.85 81.62 L12.47 80.85 L12.12 80.04 L11.80 79.17 L11.51 78.24 L11.25 77.24 L11.01 76.17 L10.79 75.01 L10.61 73.74 L10.45 72.35 L10.31 70.80 L10.20 69.05 L10.11 66.99 L10.05 64.45 L10.01 60.96 L10.00 50.00 L10.01 39.04 L10.05 35.55 L10.11 33.01 L10.20 30.95 L10.31 29.20 L10.45 27.65 L10.61 26.26 L10.79 24.99 L11.01 23.83 L11.25 22.76 L11.51 21.76 L11.80 20.83 L12.12 19.96 L12.47 19.15 L12.85 18.38 L13.25 17.66 L13.69 16.98 L14.15 16.34 L14.65 15.74 L15.18 15.18 L15.74 14.65 L16.34 14.15 L16.98 13.69 L17.66 13.25 L18.38 12.85 L19.15 12.47 L19.96 12.12 L20.83 11.80 L21.76 11.51 L22.76 11.25 L23.83 11.01 L24.99 10.79 L26.26 10.61 L27.65 10.45 L29.20 10.31 L30.95 10.20 L33.01 10.11 L35.55 10.05 L39.04 10.01 L50.00 10.00 L60.96 10.01 L64.45 10.05 L66.99 10.11 L69.05 10.20 L70.80 10.31 L72.35 10.45 L73.74 10.61 L75.01 10.79 L76.17 11.01 L77.24 11.25 L78.24 11.51 L79.17 11.80 L80.04 12.12 L80.85 12.47 L81.62 12.85 L82.34 13.25 L83.02 13.69 L83.66 14.15 L84.26 14.65 L84.82 15.18 L85.35 15.74 L85.85 16.34 L86.31 16.98 L86.75 17.66 L87.15 18.38 L87.53 19.15 L87.88 19.96 L88.20 20.83 L88.49 21.76 L88.75 22.76 L88.99 23.83 L89.21 24.99 L89.39 26.26 L89.55 27.65 L89.69 29.20 L89.80 30.95 L89.89 33.01 L89.95 35.55 L89.99 39.04Z"/>
+  <linearGradient id="lime" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ECFF8C"/><stop offset=".5" stop-color="#D4FF3F"/><stop offset="1" stop-color="#A9DA12"/></linearGradient>
+  <linearGradient id="beamBar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4FF3F" stop-opacity="0"/><stop offset=".8" stop-color="#D4FF3F" stop-opacity=".55"/><stop offset="1" stop-color="#F4FFC8" stop-opacity="1"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity=".07"/></pattern>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".55"/></filter>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+  <filter id="blur4" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.sb{font-weight:600}
+@keyframes sh{0.000%{transform:translateX(-120px)} 34.286%{transform:translateX(400px)} 100.000%{transform:translateX(400px)}} .sh{animation:sh 3.5s infinite cubic-bezier(.4,0,.2,1)}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<clipPath id="bc"><rect x="4" y="4" width="352" height="64" rx="32.0"/></clipPath>
+  <rect x="4" y="4" width="352" height="64" rx="32.0" fill="#D4FF3F"/>
+  <g clip-path="url(#bc)"><g class="sh"><rect x="0" y="0" width="70" height="72" fill="#fff" fill-opacity=".45" transform="skewX(-20)"/></g></g>
+  <path d="M60 26v16M53 35l7 7 7-7M51 48h18" fill="none" stroke="#0A0A0C" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="84" y="44" font-size="21" class="sb" fill="#0A0A0C" letter-spacing="-.3">Download for Mac</text>
+  <text x="326" y="44" font-size="14" class="sb" fill="#0A0A0C" fill-opacity=".6" text-anchor="end">free</text>
+</svg>
