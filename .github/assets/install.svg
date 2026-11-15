@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="t d">
+<title id="t">Opening Shotlight the first time</title><desc id="d">Four steps: drag to Applications, click Done, click Open Anyway in Privacy &amp; Security, then find Shotlight in the menu bar.</desc>
+<defs>
+  <path id="sq" d="M90.00 50.00 L89.99 60.96 L89.95 64.45 L89.89 66.99 L89.80 69.05 L89.69 70.80 L89.55 72.35 L89.39 73.74 L89.21 75.01 L88.99 76.17 L88.75 77.24 L88.49 78.24 L88.20 79.17 L87.88 80.04 L87.53 80.85 L87.15 81.62 L86.75 82.34 L86.31 83.02 L85.85 83.66 L85.35 84.26 L84.82 84.82 L84.26 85.35 L83.66 85.85 L83.02 86.31 L82.34 86.75 L81.62 87.15 L80.85 87.53 L80.04 87.88 L79.17 88.20 L78.24 88.49 L77.24 88.75 L76.17 88.99 L75.01 89.21 L73.74 89.39 L72.35 89.55 L70.80 89.69 L69.05 89.80 L66.99 89.89 L64.45 89.95 L60.96 89.99 L50.00 90.00 L39.04 89.99 L35.55 89.95 L33.01 89.89 L30.95 89.80 L29.20 89.69 L27.65 89.55 L26.26 89.39 L24.99 89.21 L23.83 88.99 L22.76 88.75 L21.76 88.49 L20.83 88.20 L19.96 87.88 L19.15 87.53 L18.38 87.15 L17.66 86.75 L16.98 86.31 L16.34 85.85 L15.74 85.35 L15.18 84.82 L14.65 84.26 L14.15 83.66 L13.69 83.02 L13.25 82.34 L12.85 81.62 L12.47 80.85 L12.12 80.04 L11.80 79.17 L11.51 78.24 L11.25 77.24 L11.01 76.17 L10.79 75.01 L10.61 73.74 L10.45 72.35 L10.31 70.80 L10.20 69.05 L10.11 66.99 L10.05 64.45 L10.01 60.96 L10.00 50.00 L10.01 39.04 L10.05 35.55 L10.11 33.01 L10.20 30.95 L10.31 29.20 L10.45 27.65 L10.61 26.26 L10.79 24.99 L11.01 23.83 L11.25 22.76 L11.51 21.76 L11.80 20.83 L12.12 19.96 L12.47 19.15 L12.85 18.38 L13.25 17.66 L13.69 16.98 L14.15 16.34 L14.65 15.74 L15.18 15.18 L15.74 14.65 L16.34 14.15 L16.98 13.69 L17.66 13.25 L18.38 12.85 L19.15 12.47 L19.96 12.12 L20.83 11.80 L21.76 11.51 L22.76 11.25 L23.83 11.01 L24.99 10.79 L26.26 10.61 L27.65 10.45 L29.20 10.31 L30.95 10.20 L33.01 10.11 L35.55 10.05 L39.04 10.01 L50.00 10.00 L60.96 10.01 L64.45 10.05 L66.99 10.11 L69.05 10.20 L70.80 10.31 L72.35 10.45 L73.74 10.61 L75.01 10.79 L76.17 11.01 L77.24 11.25 L78.24 11.51 L79.17 11.80 L80.04 12.12 L80.85 12.47 L81.62 12.85 L82.34 13.25 L83.02 13.69 L83.66 14.15 L84.26 14.65 L84.82 15.18 L85.35 15.74 L85.85 16.34 L86.31 16.98 L86.75 17.66 L87.15 18.38 L87.53 19.15 L87.88 19.96 L88.20 20.83 L88.49 21.76 L88.75 22.76 L88.99 23.83 L89.21 24.99 L89.39 26.26 L89.55 27.65 L89.69 29.20 L89.80 30.95 L89.89 33.01 L89.95 35.55 L89.99 39.04Z"/>
+  <linearGradient id="lime" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ECFF8C"/><stop offset=".5" stop-color="#D4FF3F"/><stop offset="1" stop-color="#A9DA12"/></linearGradient>
+  <linearGradient id="beamBar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4FF3F" stop-opacity="0"/><stop offset=".8" stop-color="#D4FF3F" stop-opacity=".55"/><stop offset="1" stop-color="#F4FFC8" stop-opacity="1"/></linearGradient>
+  <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#fff" fill-opacity=".07"/></pattern>
+  <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity=".55"/></filter>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+  <filter id="blur4" x="-10%" y="-40%" width="120%" height="180%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.sb{font-weight:600}
+@keyframes nudge{0.000%{transform:translateX(0)} 50.000%{transform:translateX(6px)} 100.000%{transform:translateX(0)}}
+.nudge{animation:nudge 2s infinite ease-in-out}
+@keyframes ring{0.000%{opacity:.9;transform:scale(1)} 100.000%{opacity:0;transform:scale(1.5)}}
+.ring{transform-box:fill-box;transform-origin:center;animation:ring 2.4s infinite ease-out}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x=".5" y=".5" width="1199" height="399" rx="28" fill="#0A0A0C" stroke="#1C1C22"/>
+  <rect x=".5" y=".5" width="1199" height="399" rx="28" fill="url(#dots)"/>
+  <g><rect x="36" y="36" width="267" height="328" rx="18" fill="#111115" stroke="#2A2A33"/>
+    <rect x="52" y="52" width="235" height="200" rx="12" fill="#141418"/>
+    <g transform="translate(52 52)"><g transform="translate(22.00 52.00) scale(0.8000)">
+    <use href="#sq" fill="url(#lime)"/>
+    <path d="M64 28H28v13M36 72h36V59" fill="none" stroke="#0A0A0C" stroke-width="5.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34.5 45.2L65.5 54.8" stroke="#0A0A0C" stroke-width="5.6" stroke-linecap="round"/>
+  </g><text x="62" y="152" font-size="12" fill="#A6A6B3" text-anchor="middle">Shotlight</text>
+      <g class="nudge"><path d="M105.5 92 h34 m-10 -10 l10 10 l-10 10" fill="none" stroke="#D4FF3F" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <g transform="translate(139.0 58)"><path d="M0 10 a6 6 0 0 1 6 -6 h20 l8 8 h24 a6 6 0 0 1 6 6 v44 a6 6 0 0 1 -6 6 h-52 a6 6 0 0 1 -6 -6z" fill="#7CC4FF" fill-opacity=".85"/>
+      <text x="32" y="51" font-size="22" fill="#0A0A0C" text-anchor="middle" class="sb">A</text></g>
+      <text x="171.0" y="152" font-size="12" fill="#A6A6B3" text-anchor="middle">Applications</text></g>
+    <circle cx="70" cy="292" r="14" fill="#D4FF3F"/><text x="70" y="297" font-size="14" class="sb" fill="#0A0A0C" text-anchor="middle">1</text>
+    <text x="94" y="298" font-size="17" class="sb" fill="#F4F4F6">Drag to Applications</text>
+    <text x="56" y="332" font-size="13.5" fill="#A6A6B3">Open the .dmg, drag Shotlight in.</text></g><g><rect x="323" y="36" width="267" height="328" rx="18" fill="#111115" stroke="#2A2A33"/>
+    <rect x="339" y="52" width="235" height="200" rx="12" fill="#141418"/>
+    <g transform="translate(339 52)"><rect x="18" y="22" width="199.0" height="156" rx="12" fill="#1C1C22" stroke="#2A2A33"/>
+      <g transform="translate(97.50 32.00) scale(0.4000)">
+    <use href="#sq" fill="url(#lime)"/>
+    <path d="M64 28H28v13M36 72h36V59" fill="none" stroke="#0A0A0C" stroke-width="5.6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34.5 45.2L65.5 54.8" stroke="#0A0A0C" stroke-width="5.6" stroke-linecap="round"/>
+  </g>
+      <text x="117.5" y="94" font-size="13" class="sb" fill="#F4F4F6" text-anchor="middle">“Shotlight” Not Opened</text>
+      <rect x="40" y="106" width="155.0" height="7" rx="3.5" fill="#82828E" fill-opacity=".5"/>
+      <rect x="34" y="128" width="78" height="30" rx="8" fill="#D4FF3F"/>
+      <rect class="ring" x="34" y="128" width="78" height="30" rx="8" fill="none" stroke="#D4FF3F" stroke-width="2"/>
+      <text x="73" y="148" font-size="13" class="sb" fill="#0A0A0C" text-anchor="middle">Done</text>
+      <rect x="124" y="128" width="78" height="30" rx="8" fill="#141418" stroke="#2A2A33"/>
+      <text x="162" y="148" font-size="10.5" fill="#82828E" text-anchor="middle">Move to Trash</text></g>
+    <circle cx="357" cy="292" r="14" fill="#D4FF3F"/><text x="357" y="297" font-size="14" class="sb" fill="#0A0A0C" text-anchor="middle">2</text>
+    <text x="381" y="298" font-size="17" class="sb" fill="#F4F4F6">Click Done</text>
+    <text x="343" y="332" font-size="13.5" fill="#A6A6B3">macOS can’t verify it yet. Not Trash.</text></g><g><rect x="610" y="36" width="267" height="328" rx="18" fill="#111115" stroke="#2A2A33"/>
+    <rect x="626" y="52" width="235" height="200" rx="12" fill="#141418"/>
+    <g transform="translate(626 52)"><rect x="18" y="22" width="199.0" height="156" rx="12" fill="#1C1C22" stroke="#2A2A33"/>
+      <text x="34" y="50" font-size="12" class="sb" fill="#A6A6B3">Privacy &amp; Security</text>
+      <rect x="34" y="62" width="167.0" height="1" fill="#2A2A33"/>
+      <text x="34" y="88" font-size="12" fill="#F4F4F6">“Shotlight” was blocked to</text>
+      <text x="34" y="105" font-size="12" fill="#F4F4F6">protect your Mac.</text>
+      <rect x="95.0" y="122" width="106" height="30" rx="8" fill="#141418" stroke="#D4FF3F"/>
+      <rect class="ring" x="95.0" y="122" width="106" height="30" rx="8" fill="none" stroke="#D4FF3F" stroke-width="2"/>
+      <text x="148.0" y="142" font-size="13" class="sb" fill="#D4FF3F" text-anchor="middle">Open Anyway</text></g>
+    <circle cx="644" cy="292" r="14" fill="#D4FF3F"/><text x="644" y="297" font-size="14" class="sb" fill="#0A0A0C" text-anchor="middle">3</text>
+    <text x="668" y="298" font-size="17" class="sb" fill="#F4F4F6">Open Anyway</text>
+    <text x="630" y="332" font-size="13.5" fill="#A6A6B3">Settings › Privacy &amp; Security.</text></g><g><rect x="897" y="36" width="267" height="328" rx="18" fill="#111115" stroke="#2A2A33"/>
+    <rect x="913" y="52" width="235" height="200" rx="12" fill="#141418"/>
+    <g transform="translate(913 52)"><rect x="10" y="30" width="215.0" height="30" rx="8" fill="#1C1C22"/>
+      <text x="209.0" y="50" font-size="12" fill="#A6A6B3" text-anchor="end">Sun 15 Nov  9:41</text>
+      <g transform="translate(75.0 36)"><rect class="ring" x="-6" y="-4" width="30" height="26" rx="7" fill="none" stroke="#D4FF3F" stroke-width="2"/>
+      <rect x="-6" y="-4" width="30" height="26" rx="7" fill="#D4FF3F" fill-opacity=".18"/>
+      <path d="M13 3H3v4M5 15h10V11M2.8 7.8l10.4 3.2" fill="none" stroke="#F4F4F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
+      <rect x="15.0" y="70" width="190" height="104" rx="12" fill="#1C1C22" stroke="#2A2A33"/>
+      <circle cx="35.0" cy="92" r="4" fill="#D4FF3F"/><text x="47.0" y="96" font-size="12" class="sb" fill="#F4F4F6">Watching Desktop</text>
+      <rect x="31.0" y="108" width="140" height="8" rx="4" fill="#82828E" fill-opacity=".5"/><rect x="31.0" y="128" width="110" height="8" rx="4" fill="#82828E" fill-opacity=".5"/><rect x="31.0" y="148" width="126" height="8" rx="4" fill="#82828E" fill-opacity=".5"/></g>
+    <circle cx="931" cy="292" r="14" fill="#D4FF3F"/><text x="931" y="297" font-size="14" class="sb" fill="#0A0A0C" text-anchor="middle">4</text>
+    <text x="955" y="298" font-size="17" class="sb" fill="#F4F4F6">That’s it</text>
+    <text x="917" y="332" font-size="13.5" fill="#A6A6B3">It lives in your menu bar.</text></g>
+</svg>
